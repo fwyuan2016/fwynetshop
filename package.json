@@ -1,0 +1,23 @@
+{
+  "name": "fwynetshop",
+  "version": "1.0.0",
+  "description": "网上商城例子",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/fwyuan2016/fwynetshop"
+  },
+  "keywords": [
+    "nodejs",
+    "shop"
+  ],
+  "author": "fwyuan",
+  "license": "MIT"
+}

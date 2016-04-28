@@ -1,0 +1,27 @@
+npm init
+touch .bowerrc
+bower init
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >>cmd.log
+d:
+cd test
+dir
+ls
+npm init
+ls
+touch .bowerrc
+ls
+dir
+bower init
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >>cmd.log
+bower install bootstrap --save
+npm install express --save
+y
+cnpm install express --save
+dir
+express -v
+express -V
+doskey /history >>cmd.log
